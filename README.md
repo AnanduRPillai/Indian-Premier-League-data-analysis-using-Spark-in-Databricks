@@ -27,3 +27,11 @@ Step 2: Create a Databricks Cluster. Log in to your Databricks workspace and cre
 Step 3: Install Necessary Libraries.
 
 Step 4: Navigate to the Workspace and Run Notebooks. Navigate to the created workspace in your Databricks workspace and open and run the notebooks.
+
+## Data
+
+Data Description: Data including Ball By Ball, Total Matches, Total Players,  Players in each Match , Teams at all the IPL seasons (637 matches including 2017) A Complete datawarehouse
+
+Data: https://data.world/raghu543/ipl-data-till-2017
+
+
